@@ -2,7 +2,7 @@
 ![alt text](https://food.unl.edu/newsletters/images/assorted-dry-beans.png)
 
 In this project different machine learning algorithms were used to classify the most well-known 7 types of beans in Turkey; Barbunya, Bombay, Cali, Dermason, Horoz, Seker and Sira, depending **ONLY** on dimension and shape features of bean varieties with no external discriminatory features.
-- This code was part of a Kaggle competition and came in the **1st** place out of 36 teams.
+- This code was part of a Kaggle competition and came in the **2nd** place out of 36 teams.
 
 MLP, Xgboost, Catboost and LightGBM classifiers were trained and a final VotingClassifier is used resulting F1-score 0.956 on the training data, 0.935 on validation set and 0.938 on the final testing set.  
 
